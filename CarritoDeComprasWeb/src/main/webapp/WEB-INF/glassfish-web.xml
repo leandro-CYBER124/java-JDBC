@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glassfish-web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+                   version="4.0">
+                   
+    <!-- Contexto de la aplicación -->
+    <context-root>/CarritoDeComprasWeb</context-root>
+    
+    <!-- Opcional: Configuración del class-loader -->
+    <class-loader delegate="true" />
+
+    <!-- Configuración JSP -->
+    <jsp-config>
+        <property name="keepgenerated" value="true">
+            <description>Keep a copy of the generated servlet class' java code.</description>
+        </property>
+    </jsp-config>
+    
+</glassfish-web-app>

@@ -1,0 +1,12 @@
+com\mycompany\libreriaJPA1\Services\MenuService.class
+com\mycompany\Persistence\DAO.class
+com\mycompany\Entities\Editorial.class
+com\mycompany\libreriaJPA1\LibreriaJPA1.class
+com\mycompany\libreriaJPA1\Services\EditorialService.class
+com\mycompany\Entities\Libro.class
+com\mycompany\Persistence\AutorDAO.class
+com\mycompany\Persistence\EditorialDao.class
+com\mycompany\Entities\Autor.class
+com\mycompany\libreriaJPA1\Services\LibroService.class
+com\mycompany\Persistence\LibroDAO.class
+com\mycompany\libreriaJPA1\Services\AutorService.class
